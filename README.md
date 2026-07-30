@@ -184,7 +184,9 @@ The project successfully demonstrated the process of identifying and mitigating 
 Cyber Security Intern – CodeAlpha
 
 GitHub: https://github.com/cyberbee265
+## License
 
+This project was developed solely for educational purposes as part of the CodeAlpha Cyber Security Internship Program.
 LinkedIn: https://linkedin.com/in/sulaimon-olore-7495b116b
 ---
 
